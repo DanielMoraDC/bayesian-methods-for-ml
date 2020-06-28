@@ -19,3 +19,10 @@ conda activate bayes
 
 Then, you can open and execute any of the libraries using Jupyter Lab.
 
+## Notation disclaimer
+
+We try to stick, whenever possible, to notation in Bishop'0s book (add ref here).
+
+## Future work
+
+- [ ] Adapt week 1 to notation.
