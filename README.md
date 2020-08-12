@@ -23,6 +23,9 @@ Then, you can open and execute any of the libraries using Jupyter Lab.
 
 We try to stick, whenever possible, to notation in Bishop'0s book (add ref here).
 
+Note that while LaTeX notation renders when working within the Jupyter environment, it might not
+properly show when browsing the notebooks in Github.
+
 ## Future work
 
 - [ ] Adapt week 1 to notation.
